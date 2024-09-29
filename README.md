@@ -1,1 +1,7 @@
-# This can be my personal page
+# Robotics Scientist
+
+### Education
+Robotics, PhD
+Control theory and engineering, Master
+
+### Work Experience
