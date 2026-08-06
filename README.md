@@ -1,6 +1,6 @@
 # Robotics Scientist
 
-I'm currently working at Nanyang Technological University (NTU) as a Research Fellow. Before that, I was a researcher at Vrije Universiteit Brussel (VUB) and imec, where I obtained my PhD from VUB.
+I'm currently working at Nanyang Technological University (NTU) as a Research Fellow. Before that, I was a researcher at Vrije Universiteit Brussel (VUB) and Interuniversity Microelectronics Centre (IMEC), where I obtained my PhD from VUB.
 
 
 ### Publications
