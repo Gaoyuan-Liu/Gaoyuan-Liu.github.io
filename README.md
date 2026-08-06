@@ -3,6 +3,8 @@
 I'm currently working at Nanyang Technological University (NTU) as a Research Fellow. Before that, I was a researcher at Vrije Universiteit Brussel (VUB) and Interuniversity Microelectronics Centre (IMEC), where I obtained my PhD from VUB.
 
 
+[Read my Blog →](/blog/)
+
 ### Publications
 
 [Automated Behavior Planning for Fruit Tree Pruning via Redundant Robot Manipulators: Addressing the Behavior Planning Challenge](https://ieeexplore.ieee.org/document/10978028)
