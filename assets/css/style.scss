@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+body {
+  font-family: "lucida grande", "lucida sans", verdana, sans-serif;
+}
+
 a {
   color: #000080;
 }
