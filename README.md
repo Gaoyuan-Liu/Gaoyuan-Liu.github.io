@@ -1,24 +1,7 @@
 # Robotics Scientist
 
-### Education
+I'm currently working at Nanyang Technological University (NTU) as a research Fellow. Before that, I was working at Vrije Universiteit Brussel (VUB) and imec as a researcher, where I obtained my PhD. 
 
-**PhD in Robotics** — Vrije Universiteit Brussel, Brussels, Belgium (2020–2025), *with the greatest distinction*
-Thesis: Hybrid Solutions for Behavior Planning in Robotic Manipulation
-
-**Master in Control Theory and Engineering** — Northwestern Polytechnical University, Xi'an, China (2016–2019)
-Thesis: Flight Control System Design for a Tandem Rotor Helicopter
-
-**Bachelor of Engineering** — Northwestern Polytechnical University, Xi'an, China (2012–2016)
-
-### Work Experience
-
-**Research Fellow**, Nanyang Technological University, Singapore — July 2026–present
-
-**Postdoc Researcher**, IMEC, Brussels, Belgium — March–July 2026
-
-**Researcher**, Brubotics (VUB), Brussels, Belgium — May 2024–March 2026
-
-**Visiting Researcher**, OnePlanet Research Center (IMEC), Wageningen, Netherlands — April–July 2024
 
 ### Publications
 
