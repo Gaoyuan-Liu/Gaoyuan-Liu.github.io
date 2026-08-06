@@ -1,3 +1,4 @@
 title: Gaoyuan Liu
 logo: /assets/img/photo.png
 theme: jekyll-theme-minimal
+permalink: /blog/:year/:month/:day/:title/
