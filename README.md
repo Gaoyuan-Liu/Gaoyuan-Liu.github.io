@@ -1,6 +1,6 @@
 # Robotics Scientist
 
-I'm currently working at Nanyang Technological University (NTU) as a Research Fellow. Before that, I was a researcher at Vrije Universiteit Brussel (VUB) and Interuniversity Microelectronics Centre (IMEC), where I obtained my PhD from VUB.
+I'm currently working at Nanyang Technological University (NTU) as a Research Fellow. Before that, I was a researcher at Vrije Universiteit Brussel (VUB) and Interuniversity Microelectronics Centre (IMEC), where I obtained my PhD from the [Brubotics Lab](https://www.brubotics.eu/) and [AI Lab](https://ai.vub.ac.be/) VUB, my PhD promotors are [Bram Vanderborght](https://mech.vub.ac.be/multibody/members/bram.htm) and [Ann Nowe](https://ai.vub.ac.be/team/ann-nowe/). 
 
 
 [Read my Blog →](/blog/)
