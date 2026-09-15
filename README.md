@@ -5,7 +5,7 @@ I'm currently working at Nanyang Technological University (NTU) as a Research Fe
 
 ### News
 
-2025-09-15 — Our paper titled "Dual-Modal Motion Planning and Control for Robotic Orchard Pruning Under Uncertainties" is accepted by *IEEE Transactions on Field Robotics*.
+2026-09-15 — Our paper titled "Dual-Modal Motion Planning and Control for Robotic Orchard Pruning Under Uncertainties" is accepted by *IEEE Transactions on Field Robotics*.
 
 
 ### Publications
