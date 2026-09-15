@@ -3,6 +3,10 @@
 I'm currently working at Nanyang Technological University (NTU) as a Research Fellow. Before that, I was a researcher at Vrije Universiteit Brussel (VUB) and Interuniversity Microelectronics Centre (IMEC), where I obtained my PhD from the [Brubotics Lab](https://www.brubotics.eu/) and [AI Lab](https://ai.vub.ac.be/) VUB, my PhD promotors are [Prof. Bram Vanderborght](https://mech.vub.ac.be/multibody/members/bram.htm) and [Prof. Ann Nowe](https://ai.vub.ac.be/team/ann-nowe/). 
 
 
+### News
+
+2025-09-15 — Our paper titled "Dual-Modal Motion Planning and Control for Robotic Orchard Pruning Under Uncertainties" is accepted by *IEEE Transactions on Field Robotics*.
+
 
 ### Publications
 
